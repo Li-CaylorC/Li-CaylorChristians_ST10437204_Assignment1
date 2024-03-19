@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multiplication tables</string>
+    <string name="hiddenText">Enter the number</string>
+</resources>
